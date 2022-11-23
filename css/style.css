@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+}
+
+.header-bg {
+  background: #111111;
+  height: 160px;
+}
+
+.header-container {
+  display: flex;
+  color: aliceblue;
+}
+
+.header-menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.header-menu li {
+  list-style: none;
+}
