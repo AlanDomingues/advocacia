@@ -3,6 +3,7 @@
 .header-bg {
   background: #2e2e2e;
 }
+
 .header {
   display: flex;
   flex-wrap: wrap;
