@@ -94,16 +94,15 @@
   font-size: 1.25rem;
   color: #ffffff;
   background: #2e2e2e;
-  height: 400px;
 }
 
 .footer {
-  padding: 40px;
+  padding: 120px;
   max-width: 1200px;
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 120px;
+  /*gap: 120px;*/
 }
 
 .dados li {
@@ -179,13 +178,7 @@
   }
   .footer {
     grid-template-columns: 1fr;
-  }
-  .redes-sociais-face img {
-    width: 40px;
-    height: 40px;
-  }
-  .redes-sociais-insta img {
-    width: 40px;
-    height: 40px;
+    gap: 20px;
+    padding: 60px;
   }
 }
