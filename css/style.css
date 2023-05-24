@@ -179,7 +179,6 @@
   }
   .footer {
     grid-template-columns: 1fr;
-    gap: 10px;
   }
   .redes-sociais-face img {
     width: 40px;
